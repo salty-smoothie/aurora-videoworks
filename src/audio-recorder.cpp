@@ -12,7 +12,7 @@ AudioRecorder :: AudioRecorder ( QObject * parent ) : QObject ( parent ) {
     audioSettings.setQuality(QMultimedia::HighQuality);
     q_audioRecorder->setEncodingSettings(audioSettings);*/
 
-    q_audioRecorder -> setOutputLocation ( QUrl (QDir::homePath() + "/.cache/de.poetaster/harbour-clipper/recordedAudio.wav") );
+    q_audioRecorder -> setOutputLocation ( QUrl (QDir::homePath() + "/.cache/moe.smoothie/videoworks/recordedAudio.wav") );
     q_audioRecorder -> setVolume( 10 );
 
     b_recording = false;

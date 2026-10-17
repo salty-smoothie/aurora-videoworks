@@ -15,6 +15,12 @@ int main(int argc, char *argv[])
     // For vendored python to work
     qputenv("PYTHONHOME", QString("/usr/share/moe.smoothie.videoworks/").toUtf8().constData());
 
+    // For vendored binaries to be easily accessible
+    QString oldPath = QString::fromLocal8Bit(qgetenv("PATH"));
+    QString newPath = "/usr/libexec/moe.smoothie.videoworks:" + oldPath;
+    qputenv("PATH", newPath.toUtf8().constData());
+    qDebug() << "Set the path variable to" << newPath; 
+
     QGuiApplication *app = Aurora::Application::application(argc, argv);
     app->setOrganizationName("moe.smoothie");
     app->setApplicationName("videoworks");

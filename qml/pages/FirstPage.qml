@@ -39,7 +39,7 @@ Page {
     property var origSAR : "0:0"
     property var origDAR : "0:0"
     property string homeDirectory
-    property string tempMediaFolderPath: StandardPaths.home + '/.cache/de.poetaster/harbour-clipper'
+    property string tempMediaFolderPath: console.log("Cache will be saved in", StandardPaths.cache), StandardPaths.cache
     property string tempMediaType : "mkv"
     property string ffmpeg_staticPath : "/usr/bin/ffmpeg"
     property string overlaysFolder : "/usr" + "/share" + "/harbour-clipper" + "/qml" + "/overlays/"
@@ -646,7 +646,7 @@ Page {
 
             // Handlers do something to QML with received infos from Pythonfile (=pyotherside.send)
             setHandler('homePathFolder', function( homeDir ) {
-                tempMediaFolderPath = homeDir + "/.cache/de.poetaster/harbour-clipper/"
+                tempMediaFolderPath = homeDir + "/.cache/moe.smoothie/videoworks/"
                 //tempMediaFolderPath =  StandardPaths.temporary
                 saveMediaFolderPath =  homeDir + "/Videos"
                 homeDirectory = homeDir
