@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=harbour-clipper
-Exec=harbour-clipper %u
+Icon=moe.smoothie.videoworks
+Exec=moe.smoothie.videoworks %u
 
 Name=Videoworks
 # translation example:
@@ -13,7 +13,7 @@ Name=Videoworks
 # Name[de]=Videoworks
 #Name[de_DE]=harbour-clipper.desktop
 
-[X-Sailjail]
-OrganizationName=de.poetaster
-ApplicationName=harbour-clipper
-Permissions=Compatibility;Camera;Audio;Microphone;MediaIndexing;RemovableMedia;UserDirs
+[X-Application]
+OrganizationName=moe.smoothie
+ApplicationName=videoworks
+Permissions=Camera;Audio;Microphone;MediaIndexing;RemovableMedia;UserDirs

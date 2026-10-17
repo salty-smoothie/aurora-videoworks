@@ -16,15 +16,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> © 2021 Mark Washeim</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Videoworks is open source software licensed under the terms of </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>the GNU General Public License v3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> © 2021-26 Mark Washeim</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1306,6 +1306,14 @@
         <source>thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pthon Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPage</name>
@@ -1418,6 +1426,14 @@
     </message>
     <message>
         <source>Subtitles will be lost in case of saving in different container.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When scaling, choose mp4 as extension and mpeg4 as codec for quick results. Or mkv as extension and vp9 for smaller sizes but long compression times..</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

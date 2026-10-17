@@ -7,8 +7,8 @@
 #include <QQuickView>
 #include <QScopedPointer>
 #include <QStandardPaths>
-#include <sailfishapp.h>
-#include <src/audio-recorder.h>
+#include <auroraapp.h>
+#include "audio-recorder.h"
 
 void migrateLocalStorage()
 {
@@ -32,24 +32,17 @@ int main(int argc, char *argv[])
     //
     // To display the view, call "show()" (will show fullscreen on device).
 
-    QGuiApplication *app = SailfishApp::application(argc, argv);
+    QGuiApplication *app = Aurora::Application::application(argc, argv);
 
     migrateLocalStorage();
 
-    // now set too new OrgName
-    app->setApplicationDisplayName("Videoworks");
-    app->setApplicationName("harbour-clipper");
-    app->setOrganizationDomain("de.poetaster");
-    app->setOrganizationName("de.poetaster"); // needed for Sailjail
-
-    QTranslator *appTranslator = new QTranslator;
-    appTranslator->load("harbour-clipper-" + QLocale::system().name(), SailfishApp::pathTo("translations").path());
-    app->installTranslator(appTranslator);
-
+    app->setOrganizationName("moe.smoothie");
+    app->setApplicationName("videoworks");
 
     qmlRegisterType<AudioRecorder>("AudioRecorder", 1, 0, "AudioRecorder"); // needed for AudioRecorder to register as QML component
-    QScopedPointer<QQuickView> view(SailfishApp::createView());
-    view->setSource(SailfishApp::pathTo("qml/harbour-clipper.qml"));
+
+    QScopedPointer<QQuickView> view(Aurora::Application::createView());
+    view->setSource(Aurora::Application::pathToMainQml());
     view->setTitle("Videoworks");
     view->showFullScreen();
     return app->exec();

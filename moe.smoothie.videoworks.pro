@@ -13,17 +13,19 @@
 QT += qml quick multimedia
 
 # The name of your application
-TARGET = harbour-clipper
+TARGET = moe.smoothie.videoworks
 
-CONFIG += sailfishapp
+CONFIG += auroraapp
 
 HEADERS += \
     src/audio-recorder.h
 
-SOURCES += src/harbour-clipper.cpp \
+SOURCES += \
+    src/moe.smoothie.videoworks.cpp \
     src/audio-recorder.cpp
 
-DISTFILES += qml/harbour-clipper.qml \
+DISTFILES += \
+    qml/moe.smoothie.videoworks.qml \
     qml/cover/CoverPage.qml \
     qml/cover/harbour_clipper.svg \
     qml/pages/FirstPage.qml \
@@ -44,18 +46,21 @@ DISTFILES += qml/harbour-clipper.qml \
 python.files = lib/*
 DISTFILES += lib/ffmpeg/*
 
-python.path = "/usr/share/harbour-clipper/lib"
+python.path = "/usr/share/moe.smoothie.videoworks/lib"
 INSTALLS += python
 
-SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
+AURORAAPP_ICONS = 86x86 108x108 128x128 172x172
 
 # to disable building translations every time, comment out the
 # following CONFIG line
-#CONFIG += sailfishapp_i18n
+CONFIG += auroraapp_i18n
 
 
 # German translation is enabled as an example. If you aren't
 # planning to localize your app, remember to comment out the
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
-#TRANSLATIONS += translations/harbour-clipper-de.ts
+TRANSLATIONS += \
+    translations/moe.smoothie.videoworks.ts \
+    translations/moe.smoothie.videoworks-en.ts \
+    translations/moe.smoothie.videoworks-ru.ts
