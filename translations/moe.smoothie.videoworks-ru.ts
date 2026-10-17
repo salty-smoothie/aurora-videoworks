@@ -6,32 +6,32 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="16"/>
         <source>About Videoworks</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoworks</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="43"/>
         <source>A Video Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Видео-редактор</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="56"/>
         <source>Copyright © 2020 Tobias Planitzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright © 2020 Tobias Planitzer</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="57"/>
         <source> © 2021-26 Mark Washeim</source>
-        <translation type="unfinished"></translation>
+        <translation> © 2021-26 Mark Washeim</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>Videoworks is open source software licensed under the terms of </source>
-        <translation type="unfinished"></translation>
+        <translation>Videoworks - видео-редактор с открытым исходным кодом, который распространяется под лицензией</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="72"/>
         <source>the GNU General Public License v3.</source>
-        <translation type="unfinished"></translation>
+        <translation>GNU General Public License v3.</translation>
     </message>
 </context>
 <context>
@@ -40,330 +40,330 @@
         <location filename="../qml/pages/FirstPage.qml" line="366"/>
         <location filename="../qml/pages/FirstPage.qml" line="578"/>
         <source>Select video</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор видео</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="414"/>
         <source>Select LUT (png, cube, 3dl)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор LUT (png, cube, 3dl)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="429"/>
         <source>Select overlay image</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор картинки-оверлея</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="447"/>
         <source>Select overlay video</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор видео-оверлея</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="463"/>
         <source>Select alpha video/image</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор источника альфа-канала</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="491"/>
         <source>Select video/image</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор картинки или видео</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="504"/>
         <source>Select video to add</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор видео для добавления</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="518"/>
         <source>Select audio file</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор аудио-файла</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="534"/>
         <source>Select subtitle file (ass, srt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор субтитров (ass, srt)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="551"/>
         <source>Select font</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор шрифта</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="566"/>
         <source>Select image</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор картинки</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="664"/>
         <source>Audio extracted to</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудио распаковано в</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="723"/>
         <source>This seems to be a large file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Похоже, этот файл довольно большой</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="723"/>
         <source>For speed convenience you may scale it down first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для удобства работы рекомендуем сначала уменьшить его.</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="741"/>
         <source>ERROR!</source>
-        <translation type="unfinished"></translation>
+        <translation>ОШИБКА!</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="789"/>
         <source>Extracted to</source>
-        <translation type="unfinished"></translation>
+        <translation>Распаковано в</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="863"/>
         <source>Use &apos;delete&apos; in file menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Используйте &quot;Удалить&quot; в меню файла</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="908"/>
         <source>WARNING!</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ!</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="909"/>
         <source>Large output resolution detected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Большое разрешение у экспорта:</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="910"/>
         <source>Please reduce to max 1920x1920 pixels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, уменьшите до 1920х1920 или меньше.</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="1448"/>
         <source>Pthon Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка Python</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="1470"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>О приложении</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="1477"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="1484"/>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть видео</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="1491"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="1536"/>
         <source>Videoworks</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoworks</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2061"/>
         <source>ERROR: remaining &lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка: осталось &lt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2701"/>
         <source>Delete file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить файл?</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2733"/>
         <source>trim</source>
-        <translation type="unfinished"></translation>
+        <translation>обрезка</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2759"/>
         <source>insert</source>
-        <translation type="unfinished"></translation>
+        <translation>вставка</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2785"/>
         <source>crop</source>
-        <translation type="unfinished"></translation>
+        <translation>кадр</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2811"/>
         <location filename="../qml/pages/FirstPage.qml" line="3690"/>
         <source>pad</source>
-        <translation type="unfinished"></translation>
+        <translation>увеличение</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2837"/>
         <source>resize</source>
-        <translation type="unfinished"></translation>
+        <translation>размер</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2863"/>
         <source>speed</source>
-        <translation type="unfinished"></translation>
+        <translation>скорость</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2899"/>
         <location filename="../qml/pages/FirstPage.qml" line="4932"/>
         <source>effects</source>
-        <translation type="unfinished"></translation>
+        <translation>эффект</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2925"/>
         <location filename="../qml/pages/FirstPage.qml" line="3092"/>
         <source>filters</source>
-        <translation type="unfinished"></translation>
+        <translation>фильтр</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2951"/>
         <source>colors</source>
-        <translation type="unfinished"></translation>
+        <translation>цвет</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2977"/>
         <source>geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>геометрия</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3004"/>
         <source>text</source>
-        <translation type="unfinished"></translation>
+        <translation>текст</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3030"/>
         <source>overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>оверлей</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3066"/>
         <location filename="../qml/pages/FirstPage.qml" line="4876"/>
         <location filename="../qml/pages/FirstPage.qml" line="4915"/>
         <source>volume</source>
-        <translation type="unfinished"></translation>
+        <translation>звук</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3118"/>
         <location filename="../qml/pages/FirstPage.qml" line="3884"/>
         <location filename="../qml/pages/FirstPage.qml" line="5207"/>
         <source>fade</source>
-        <translation type="unfinished"></translation>
+        <translation>затухание</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3144"/>
         <source>extract</source>
-        <translation type="unfinished"></translation>
+        <translation>экспорт</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3171"/>
         <source>mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>миксер</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3199"/>
         <source>recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>запись</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3235"/>
         <source>storyline</source>
-        <translation type="unfinished"></translation>
+        <translation>пленка</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3261"/>
         <source>slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>слайдшоу</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3286"/>
         <source>subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>субтитры</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3311"/>
         <source>splitscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>сплитскрин</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3336"/>
         <source>thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>превью</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3372"/>
         <source>share</source>
-        <translation type="unfinished"></translation>
+        <translation>поделиться</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3397"/>
         <source>fileinfo</source>
-        <translation type="unfinished"></translation>
+        <translation>свойства</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3421"/>
         <source>rename</source>
-        <translation type="unfinished"></translation>
+        <translation>переименовать</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3445"/>
         <source>delete</source>
-        <translation type="unfinished"></translation>
+        <translation>удалить</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3483"/>
         <source>area removal</source>
-        <translation type="unfinished"></translation>
+        <translation>удалить область</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3486"/>
         <source>marked</source>
-        <translation type="unfinished"></translation>
+        <translation>выделенное</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3487"/>
         <source>unmarked</source>
-        <translation type="unfinished"></translation>
+        <translation>кроме выделения</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3496"/>
         <location filename="../qml/pages/FirstPage.qml" line="3509"/>
         <source>method suitable for all files</source>
-        <translation type="unfinished"></translation>
+        <translation>подходит для всех файлов</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3499"/>
         <source>fast precise (markers)</source>
-        <translation type="unfinished"></translation>
+        <translation>быстро точный (маркеры)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3500"/>
         <source>fast quality (i-frames)</source>
-        <translation type="unfinished"></translation>
+        <translation>быстрый качество (i-frames)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3503"/>
         <source>slow re-encode</source>
-        <translation type="unfinished"></translation>
+        <translation>медленный re-encode</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3507"/>
         <source>method prefers non-compressed</source>
-        <translation type="unfinished"></translation>
+        <translation>подходит для не сжатых файлов</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3508"/>
         <source>method prefers compressed</source>
-        <translation type="unfinished"></translation>
+        <translation>подходит для сжатых файлов</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3526"/>
         <source>frame source</source>
-        <translation type="unfinished"></translation>
+        <translation>источник кадра</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3528"/>
@@ -371,7 +371,7 @@
         <location filename="../qml/pages/FirstPage.qml" line="4489"/>
         <location filename="../qml/pages/FirstPage.qml" line="4584"/>
         <source>black</source>
-        <translation type="unfinished"></translation>
+        <translation>черный</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3529"/>
@@ -379,22 +379,22 @@
         <location filename="../qml/pages/FirstPage.qml" line="4490"/>
         <location filename="../qml/pages/FirstPage.qml" line="4585"/>
         <source>white</source>
-        <translation type="unfinished"></translation>
+        <translation>белый</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3530"/>
         <source>freeze</source>
-        <translation type="unfinished"></translation>
+        <translation>заморозка</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3531"/>
         <source>video file</source>
-        <translation type="unfinished"></translation>
+        <translation>видео</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3553"/>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>длительность</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3561"/>
@@ -407,7 +407,7 @@
         <location filename="../qml/pages/FirstPage.qml" line="5159"/>
         <location filename="../qml/pages/FirstPage.qml" line="5550"/>
         <source>[none]</source>
-        <translation type="unfinished"></translation>
+        <translation>[нет]</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3562"/>
@@ -417,137 +417,137 @@
         <location filename="../qml/pages/FirstPage.qml" line="5038"/>
         <location filename="../qml/pages/FirstPage.qml" line="5551"/>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>файл</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3581"/>
         <location filename="../qml/pages/FirstPage.qml" line="3621"/>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>результат</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3582"/>
         <location filename="../qml/pages/FirstPage.qml" line="3622"/>
         <source>ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>соотношение</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3584"/>
         <source>free</source>
-        <translation type="unfinished"></translation>
+        <translation>вручную</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3585"/>
         <source>original</source>
-        <translation type="unfinished"></translation>
+        <translation>оригинал</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3586"/>
         <location filename="../qml/pages/FirstPage.qml" line="3624"/>
         <source>1:1</source>
-        <translation type="unfinished"></translation>
+        <translation>1:1</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3587"/>
         <location filename="../qml/pages/FirstPage.qml" line="3625"/>
         <source>4:3</source>
-        <translation type="unfinished"></translation>
+        <translation>4:3</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3588"/>
         <location filename="../qml/pages/FirstPage.qml" line="3626"/>
         <source>16:9</source>
-        <translation type="unfinished"></translation>
+        <translation>16:9</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3589"/>
         <location filename="../qml/pages/FirstPage.qml" line="3627"/>
         <source>21:9</source>
-        <translation type="unfinished"></translation>
+        <translation>21:9</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3590"/>
         <location filename="../qml/pages/FirstPage.qml" line="3628"/>
         <source>3:4</source>
-        <translation type="unfinished"></translation>
+        <translation>3:4</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3591"/>
         <location filename="../qml/pages/FirstPage.qml" line="3629"/>
         <source>9:16</source>
-        <translation type="unfinished"></translation>
+        <translation>9:16</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3592"/>
         <location filename="../qml/pages/FirstPage.qml" line="3630"/>
         <source>9:21</source>
-        <translation type="unfinished"></translation>
+        <translation>9:21</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3666"/>
         <location filename="../qml/pages/FirstPage.qml" line="5568"/>
         <source>method</source>
-        <translation type="unfinished"></translation>
+        <translation>метод</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3668"/>
         <source>expand</source>
-        <translation type="unfinished"></translation>
+        <translation>увеличить</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3669"/>
         <source>reduce</source>
-        <translation type="unfinished"></translation>
+        <translation>уменьшить</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3686"/>
         <source>target</source>
-        <translation type="unfinished"></translation>
+        <translation>настройка</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3688"/>
         <location filename="../qml/pages/FirstPage.qml" line="5829"/>
         <source>width</source>
-        <translation type="unfinished"></translation>
+        <translation>ширина</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3689"/>
         <location filename="../qml/pages/FirstPage.qml" line="5833"/>
         <source>height</source>
-        <translation type="unfinished"></translation>
+        <translation>высота</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3691"/>
         <source>stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>растянуть</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3707"/>
         <location filename="../qml/pages/FirstPage.qml" line="3741"/>
         <source>auto</source>
-        <translation type="unfinished"></translation>
+        <translation>авто</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3731"/>
         <location filename="../qml/pages/FirstPage.qml" line="5103"/>
         <source>px-width</source>
-        <translation type="unfinished"></translation>
+        <translation>ширина пикс.</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3765"/>
         <location filename="../qml/pages/FirstPage.qml" line="5125"/>
         <source>px-height</source>
-        <translation type="unfinished"></translation>
+        <translation>высота пикс.</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3821"/>
         <source>presets</source>
-        <translation type="unfinished"></translation>
+        <translation>пресеты</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3823"/>
         <source>LUT/HALD</source>
-        <translation type="unfinished"></translation>
+        <translation>LUT/HALD</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3824"/>
@@ -648,187 +648,187 @@
         <location filename="../qml/pages/FirstPage.qml" line="3869"/>
         <location filename="../qml/pages/FirstPage.qml" line="4100"/>
         <source>apply</source>
-        <translation type="unfinished"></translation>
+        <translation>категория</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3871"/>
         <source>basics</source>
-        <translation type="unfinished"></translation>
+        <translation>обычные</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3872"/>
         <source>overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>оверлей</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3873"/>
         <source>repairs</source>
-        <translation type="unfinished"></translation>
+        <translation>улучшение</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3874"/>
         <source>finder</source>
-        <translation type="unfinished"></translation>
+        <translation>подсветка</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3875"/>
         <source>frei0r FX</source>
-        <translation type="unfinished"></translation>
+        <translation>frei0r FX</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3882"/>
         <location filename="../qml/pages/FirstPage.qml" line="3926"/>
         <location filename="../qml/pages/FirstPage.qml" line="3938"/>
         <source>effect</source>
-        <translation type="unfinished"></translation>
+        <translation>эффект</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3885"/>
         <source>blur</source>
-        <translation type="unfinished"></translation>
+        <translation>размытие</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3886"/>
         <source>sharpen</source>
-        <translation type="unfinished"></translation>
+        <translation>резкость</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3887"/>
         <source>erosion</source>
-        <translation type="unfinished"></translation>
+        <translation>эрозия</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3888"/>
         <location filename="../qml/pages/FirstPage.qml" line="4679"/>
         <source>normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>нормализовать</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3889"/>
         <source>reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>реверс</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3904"/>
         <location filename="../qml/pages/FirstPage.qml" line="4247"/>
         <location filename="../qml/pages/FirstPage.qml" line="4656"/>
         <source>direction</source>
-        <translation type="unfinished"></translation>
+        <translation>направление</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3906"/>
         <source>from black - clip</source>
-        <translation type="unfinished"></translation>
+        <translation>из темноты - целиком</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3907"/>
         <source>to black - clip</source>
-        <translation type="unfinished"></translation>
+        <translation>в темноту - целиком</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3908"/>
         <source>from black - markers</source>
-        <translation type="unfinished"></translation>
+        <translation>из темноты - маркеры</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3909"/>
         <source>to black - markers</source>
-        <translation type="unfinished"></translation>
+        <translation>в темноту - маркеры</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3916"/>
         <source>region</source>
-        <translation type="unfinished"></translation>
+        <translation>регион</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3918"/>
         <source>inside</source>
-        <translation type="unfinished"></translation>
+        <translation>внутри</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3919"/>
         <source>outside</source>
-        <translation type="unfinished"></translation>
+        <translation>снаружи</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3928"/>
         <source>flower rain</source>
-        <translation type="unfinished"></translation>
+        <translation>цветочный дождь</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3929"/>
         <source>old film</source>
-        <translation type="unfinished"></translation>
+        <translation>старая пленка</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3930"/>
         <source>snow falling</source>
-        <translation type="unfinished"></translation>
+        <translation>снегопад</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3931"/>
         <source>vignette</source>
-        <translation type="unfinished"></translation>
+        <translation>виньетка</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3940"/>
         <source>de-block</source>
-        <translation type="unfinished"></translation>
+        <translation>убрать артефакты (de-block)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3941"/>
         <source>de-noise</source>
-        <translation type="unfinished"></translation>
+        <translation>убрать шум</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3942"/>
         <source>de-noise 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>убрать шум 3D</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3943"/>
         <source>de-shake quality</source>
-        <translation type="unfinished"></translation>
+        <translation>убрать тряску (de-shake quality)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3944"/>
         <source>repair bad frames</source>
-        <translation type="unfinished"></translation>
+        <translation>починить битые кадры</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3945"/>
         <source>stabilize (full clip)</source>
-        <translation type="unfinished"></translation>
+        <translation>стабилизация (всё видео)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3952"/>
         <source>find</source>
-        <translation type="unfinished"></translation>
+        <translation>подсветить</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3954"/>
         <source>contour (sobel)</source>
-        <translation type="unfinished"></translation>
+        <translation>контуры (sobel)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3955"/>
         <source>find edges</source>
-        <translation type="unfinished"></translation>
+        <translation>найти ребра</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3956"/>
         <source>clear black frames (covered lens)</source>
-        <translation type="unfinished"></translation>
+        <translation>удалить темные кадры (закрытый объектив)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3957"/>
         <source>clear white frames (strobe flash)</source>
-        <translation type="unfinished"></translation>
+        <translation>удалить белые кадры (применение вспышки)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3964"/>
         <source>effect (full clip)</source>
-        <translation type="unfinished"></translation>
+        <translation>эффект (всё видео)</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="3966"/>
@@ -1717,7 +1717,7 @@
     <message>
         <location filename="../qml/pages/InfoPage.qml" line="31"/>
         <source>Videoworks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Videoworks</translation>
     </message>
     <message>
         <location filename="../qml/pages/InfoPage.qml" line="37"/>
@@ -1826,7 +1826,7 @@
     <message>
         <location filename="../qml/pages/SavePage.qml" line="326"/>
         <source>auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">авто</translation>
     </message>
     <message>
         <location filename="../qml/pages/SavePage.qml" line="340"/>
