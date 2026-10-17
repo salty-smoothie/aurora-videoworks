@@ -41,9 +41,9 @@ Page {
     property string homeDirectory
     property string tempMediaFolderPath: console.log("Cache will be saved in", StandardPaths.cache), StandardPaths.cache
     property string tempMediaType : "mkv"
-    property string ffmpeg_staticPath : "/usr/bin/ffmpeg"
-    property string overlaysFolder : "/usr" + "/share" + "/harbour-clipper" + "/qml" + "/overlays/"
-    property string filterFolder : "/usr" + "/share" + "/harbour-clipper" + "/qml" + "/filters/"
+    property string ffmpeg_staticPath : "ffmpeg"
+    property string overlaysFolder : "/usr/share/moe.smoothie.videoworks/qml/overlays/"
+    property string filterFolder : "/usr/share/moe.smoothie.videoworks/qml/filters/"
     property string outputPathPy
     property string inputPathPy : decodeURIComponent( "/" + idMediaPlayer.source.toString().replace(/^(file:\/{3})|(qrc:\/{2})|(http:\/{2})/,"") )
     property string saveMediaFolderPath // : "/home" + "/nemo" + "/Videos" + "/Clipper/"

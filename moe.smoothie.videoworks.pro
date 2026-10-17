@@ -37,11 +37,10 @@ DISTFILES += \
     qml/overlays/* \
     qml/symbols/*.svg \
     qml/py/videox.py \
-    rpm/harbour-clipper.changes.in \
-    rpm/harbour-clipper.changes.run.in \
-    rpm/harbour-clipper.spec \
+    rpm/moe.smoothie.videoworks.changes \
+    rpm/moe.smoothie.videoworks.spec \
     translations/*.ts \
-    harbour-clipper.desktop
+    moe.smoothie.videoworks.desktop
 
 python.files = lib/*
 DISTFILES += lib/ffmpeg/*

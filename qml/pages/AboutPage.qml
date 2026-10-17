@@ -25,7 +25,7 @@ Page {
             width: parent.width / 5
             height: width
             anchors.horizontalCenter: parent.horizontalCenter
-            source: "../cover/harbour-clipper.svg"
+            source: "../cover/moe.smoothie.videoworks.svg"
             smooth: true
             asynchronous: true
         }
