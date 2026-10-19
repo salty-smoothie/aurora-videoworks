@@ -1271,10 +1271,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Videoworks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>at cursor</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1375,6 +1371,13 @@
     </message>
     <message>
         <source>Development version. Bugs and inspiration: https://github.com/poetaster/harbour-clipper </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MainPageHeader</name>
+    <message>
+        <source>Videoworks</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
