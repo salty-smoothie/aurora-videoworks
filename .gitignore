@@ -1,3 +1,4 @@
 vendor/
+*.pro.user
 build/
 *:Zone.Identifier
