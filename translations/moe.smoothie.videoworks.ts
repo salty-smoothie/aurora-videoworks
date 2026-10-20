@@ -67,23 +67,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>trim</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>crop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>pad</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>resize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -967,10 +951,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>insert</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>display-ratio</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1432,6 +1412,33 @@
     </message>
     <message>
         <source>Recorder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SecondaryToolbarCut</name>
+    <message>
+        <source>Trim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pad</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
