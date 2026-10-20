@@ -675,14 +675,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>slideshow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>splitscreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>above</source>
         <translation type="unfinished"></translation>
     </message>
@@ -931,10 +923,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>storyline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>target resolution</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1068,10 +1056,6 @@
     </message>
     <message>
         <source>to black - markers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>subtitles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1247,10 +1231,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>thumbnail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pthon Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1412,6 +1392,29 @@
     </message>
     <message>
         <source>Recorder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SecondaryToolbarCollage</name>
+    <message>
+        <source>Storyline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slideshow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split-screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
