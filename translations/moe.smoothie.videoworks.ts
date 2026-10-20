@@ -95,18 +95,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>geometry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>fade</source>
         <translation type="unfinished"></translation>
     </message>
@@ -532,10 +520,6 @@
     </message>
     <message>
         <source>winter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>overlay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1437,6 +1421,33 @@
     </message>
     <message>
         <source>When scaling, choose mp4 as extension and mpeg4 as codec for quick results. Or mkv as extension and vp9 for smaller sizes but long compression times..</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SecondaryToolbarImage</name>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overlay</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

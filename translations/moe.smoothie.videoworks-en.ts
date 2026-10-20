@@ -168,7 +168,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5764"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5603"/>
         <source>Delete file?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -204,108 +204,86 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="2860"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4299"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4138"/>
         <source>effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="2886"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3887"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3726"/>
         <source>filters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="2912"/>
-        <source>colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/FirstPage.qml" line="2938"/>
-        <source>geometry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/FirstPage.qml" line="2965"/>
-        <source>text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/FirstPage.qml" line="2991"/>
-        <source>overlay</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3861"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4243"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4282"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3700"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4082"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4121"/>
         <source>volume</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3083"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3913"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4710"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2922"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3752"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4549"/>
         <source>fade</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3939"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3778"/>
         <source>extract</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3966"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3805"/>
         <source>mixer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3994"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3833"/>
         <source>recorder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4398"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4237"/>
         <source>storyline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4424"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4263"/>
         <source>slideshow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4449"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4288"/>
         <source>subtitles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4474"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4313"/>
         <source>splitscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4499"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4338"/>
         <source>thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5256"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5095"/>
         <source>share</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5281"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5120"/>
         <source>fileinfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5305"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5144"/>
         <source>rename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5329"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5168"/>
         <source>delete</source>
         <translation type="unfinished"></translation>
     </message>
@@ -362,17 +340,17 @@
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2561"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3545"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3688"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3783"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3384"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3527"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3622"/>
         <source>black</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2562"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3544"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3689"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3784"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3383"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3528"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3623"/>
         <source>white</source>
         <translation type="unfinished"></translation>
     </message>
@@ -393,24 +371,24 @@
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2594"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3048"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3670"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3751"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4221"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4540"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4653"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4662"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5053"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2887"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3509"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3590"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4060"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4379"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4492"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4501"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4892"/>
         <source>[none]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2595"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3049"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3671"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3752"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4541"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5054"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2888"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3510"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3591"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4380"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4893"/>
         <source>file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -480,7 +458,7 @@
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2699"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5071"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4910"/>
         <source>method</source>
         <translation type="unfinished"></translation>
     </message>
@@ -501,13 +479,13 @@
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2721"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5404"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5243"/>
         <source>width</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2722"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5408"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5247"/>
         <source>height</source>
         <translation type="unfinished"></translation>
     </message>
@@ -524,1185 +502,1185 @@
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2764"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4606"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4445"/>
         <source>px-width</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="2798"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4628"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4467"/>
         <source>px-height</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3020"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2859"/>
         <source>presets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3022"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2861"/>
         <source>LUT/HALD</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3023"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2862"/>
         <source>anime</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3024"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2863"/>
         <source>black and white</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3025"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2864"/>
         <source>bleak future</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3026"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2865"/>
         <source>bleach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3027"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2866"/>
         <source>cold</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3028"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2867"/>
         <source>drama</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3029"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2868"/>
         <source>fall colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3030"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2869"/>
         <source>moonlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3031"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2870"/>
         <source>negative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3032"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2871"/>
         <source>old style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3033"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2872"/>
         <source>orange-teal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3034"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2873"/>
         <source>spring colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3035"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2874"/>
         <source>summer colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3036"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2875"/>
         <source>teal-magenta-gold</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3037"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2876"/>
         <source>sunset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3038"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2877"/>
         <source>vibrant</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3039"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2878"/>
         <source>vintage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3040"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2879"/>
         <source>warm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3041"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2880"/>
         <source>winter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3068"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3299"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2907"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3138"/>
         <source>apply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3070"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2909"/>
         <source>basics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3071"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2910"/>
         <source>overlays</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3072"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2911"/>
         <source>repairs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3073"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2912"/>
         <source>finder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3074"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2913"/>
         <source>frei0r FX</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3081"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3125"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3137"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2920"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2964"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2976"/>
         <source>effect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3084"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2923"/>
         <source>blur</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3085"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2924"/>
         <source>sharpen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3086"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2925"/>
         <source>erosion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3087"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4046"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2926"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3885"/>
         <source>normalize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3088"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2927"/>
         <source>reverse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3103"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3446"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4023"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2942"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3285"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3862"/>
         <source>direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3105"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2944"/>
         <source>from black - clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3106"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2945"/>
         <source>to black - clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3107"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2946"/>
         <source>from black - markers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3108"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2947"/>
         <source>to black - markers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3115"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2954"/>
         <source>region</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3117"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2956"/>
         <source>inside</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3118"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2957"/>
         <source>outside</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3127"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2966"/>
         <source>flower rain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3128"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2967"/>
         <source>old film</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3129"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2968"/>
         <source>snow falling</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3130"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2969"/>
         <source>vignette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3139"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2978"/>
         <source>de-block</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3140"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2979"/>
         <source>de-noise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3141"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2980"/>
         <source>de-noise 3D</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3142"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2981"/>
         <source>de-shake quality</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3143"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2982"/>
         <source>repair bad frames</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3144"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2983"/>
         <source>stabilize (full clip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3151"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2990"/>
         <source>find</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3153"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2992"/>
         <source>contour (sobel)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3154"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2993"/>
         <source>find edges</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3155"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2994"/>
         <source>clear black frames (covered lens)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3156"/>
+        <location filename="../qml/pages/FirstPage.qml" line="2995"/>
         <source>clear white frames (strobe flash)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3163"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3002"/>
         <source>effect (full clip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3165"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4753"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3004"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4592"/>
         <source>pixelize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3166"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3005"/>
         <source>lenscorrection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3167"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3006"/>
         <source>drunken (vertigo)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3168"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3007"/>
         <source>posterize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3169"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3008"/>
         <source>glow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3170"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3009"/>
         <source>add glitches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3171"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3010"/>
         <source>whitebalance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3204"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3226"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3043"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3065"/>
         <source>intensity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3259"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3098"/>
         <source>% pixels black</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3259"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3098"/>
         <source>% pixels white</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3280"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3119"/>
         <source>black treshold &lt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3280"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3119"/>
         <source>white treshold &lt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3301"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3140"/>
         <source>vibrance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3302"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3141"/>
         <source>brightness</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3303"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3142"/>
         <source>contrast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3304"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3143"/>
         <source>saturation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3305"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3144"/>
         <source>gamma</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3306"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3145"/>
         <source>light (+)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3307"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3146"/>
         <source>light (-)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3308"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3147"/>
         <source>contrast (+)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3309"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3148"/>
         <source>contrast (-)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3436"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3275"/>
         <source>modus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3438"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3277"/>
         <source>mirror</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3439"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3278"/>
         <source>rotate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3448"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3287"/>
         <source>horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3449"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3288"/>
         <source>vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3456"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3295"/>
         <source>angle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3458"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3297"/>
         <source>90° right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3459"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3298"/>
         <source>90° left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3477"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3316"/>
         <source>font-size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3480"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3319"/>
         <source>tiny</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3483"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3322"/>
         <source>small 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3486"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3325"/>
         <source>small 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3489"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3328"/>
         <source>medium</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3492"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3331"/>
         <source>large 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3495"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3334"/>
         <source>large 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3498"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3337"/>
         <source>huge 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3501"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3340"/>
         <source>huge 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3504"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3343"/>
         <source>huge 3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3536"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3375"/>
         <source>background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3542"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3381"/>
         <source>color-set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3546"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3690"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3385"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3529"/>
         <source>yellow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3547"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3691"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3386"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3530"/>
         <source>red</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3590"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5098"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3429"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4937"/>
         <source>type here ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3609"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3448"/>
         <source>[font]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3653"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3492"/>
         <source>type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3655"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4654"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5208"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3494"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4493"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5047"/>
         <source>image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3656"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4663"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3495"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4502"/>
         <source>video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3657"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3496"/>
         <source>rectangle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3658"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3497"/>
         <source>frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3659"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3498"/>
         <source>greenscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3686"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3525"/>
         <source>color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3692"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3785"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3531"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3624"/>
         <source>green</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3721"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3560"/>
         <source>opacity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3743"/>
-        <location filename="../qml/pages/FirstPage.qml" line="3761"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5364"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5392"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3582"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3600"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5203"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5231"/>
         <source>size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3763"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3602"/>
         <source>fill</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3764"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4045"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5045"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3603"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3884"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4884"/>
         <source>manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3781"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3620"/>
         <source>alpha</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3786"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3625"/>
         <source>blue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3813"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3652"/>
         <source>color similarity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="3835"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3674"/>
         <source>edge blend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4025"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3864"/>
         <source>in - louder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4026"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3865"/>
         <source>out - mute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4043"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3882"/>
         <source>adjustment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4047"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3886"/>
         <source>mute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4069"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3908"/>
         <source> dB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4086"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3925"/>
         <source>codec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4088"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4260"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3927"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4099"/>
         <source>source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4089"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3928"/>
         <source>flac</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4090"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3929"/>
         <source>wav</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4091"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3930"/>
         <source>mp3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4092"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3931"/>
         <source>acc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4109"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3948"/>
         <source>use overlay duration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4109"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3948"/>
         <source>cut or loop overlay to fill</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4111"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3950"/>
         <source>start at cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4112"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3951"/>
         <source>between markers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4142"/>
+        <location filename="../qml/pages/FirstPage.qml" line="3981"/>
         <source>fade in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4172"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4011"/>
         <source>fade out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4195"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4034"/>
         <source>Manually mute device speaker if you do not use headsets. Otherwise speaker output will be re-recorded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4212"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4051"/>
         <source>recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4214"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4222"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4053"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4061"/>
         <source>overlay audio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4262"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4101"/>
         <source>current audio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4301"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4140"/>
         <source>denoise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4302"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4141"/>
         <source>add echo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4303"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4142"/>
         <source>high pass</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4304"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4143"/>
         <source>low pass</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4311"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4150"/>
         <source>denoiser type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4313"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4152"/>
         <source>afftdn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4314"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4153"/>
         <source>anlmdn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4321"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4160"/>
         <source>echo type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4323"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4162"/>
         <source>standard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4324"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4163"/>
         <source>double instuments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4325"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4164"/>
         <source>mountain concert</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4326"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4165"/>
         <source>robot style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4349"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4188"/>
         <source>remove below frequency (Hz)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4372"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4211"/>
         <source>remove above frequency (Hz)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4528"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4551"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4367"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4390"/>
         <source>new clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4530"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4369"/>
         <source>above</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4531"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4370"/>
         <source>below</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4532"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4371"/>
         <source>left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4533"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4372"/>
         <source>right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4549"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4388"/>
         <source>use audio from</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4552"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4391"/>
         <source>source clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4553"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4709"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4392"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4548"/>
         <source>none</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4554"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4393"/>
         <source>both</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4572"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4411"/>
         <source>no camera movement</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4572"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4411"/>
         <source>camera movement</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4574"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4413"/>
         <source>still images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4575"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4414"/>
         <source>random pan &amp; zoom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4583"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4422"/>
         <source>target resolution</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4585"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4424"/>
         <source>keep low on phones</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4701"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5368"/>
-        <location filename="../qml/pages/FirstPage.qml" line="5396"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4540"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5207"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5235"/>
         <source>duration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4707"/>
-        <location filename="../qml/pages/FirstPage.qml" line="4803"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4546"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4642"/>
         <source>transition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4712"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4551"/>
         <source>fade-black</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4713"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4552"/>
         <source>fade-white</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4715"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4554"/>
         <source>distance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4717"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4556"/>
         <source>wipe-left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4718"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4557"/>
         <source>wipe-right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4719"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4558"/>
         <source>wipe-up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4720"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4559"/>
         <source>wipe-down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4722"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4561"/>
         <source>slide-left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4723"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4562"/>
         <source>slide-right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4724"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4563"/>
         <source>slide-up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4725"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4564"/>
         <source>slide-down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4727"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4566"/>
         <source>smooth-left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4728"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4567"/>
         <source>smooth-right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4729"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4568"/>
         <source>smooth-up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4730"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4569"/>
         <source>smooth-down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4732"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4571"/>
         <source>rect-crop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4733"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4572"/>
         <source>circle-crop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4734"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4573"/>
         <source>circle-close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4735"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4574"/>
         <source>circle-open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4737"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4576"/>
         <source>horizontal-close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4738"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4577"/>
         <source>horizontal-open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4739"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4578"/>
         <source>vertical-close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4740"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4579"/>
         <source>vertical-open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4742"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4581"/>
         <source>diagonal-down-left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4743"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4582"/>
         <source>diagonal-down-right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4744"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4583"/>
         <source>diagonal-up-left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4745"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4584"/>
         <source>diagonal-uo-right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4747"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4586"/>
         <source>slice left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4748"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4587"/>
         <source>slice right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4749"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4588"/>
         <source>slice up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4750"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4589"/>
         <source>slice down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4752"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4591"/>
         <source>dissolve</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4754"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4593"/>
         <source>radial</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4763"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4602"/>
         <source>squeeze-horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="4764"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4603"/>
         <source>squeeze-vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5042"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4881"/>
         <source>add data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5044"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4883"/>
         <source>from file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5064"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4903"/>
         <source>markers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5066"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4905"/>
         <source>timestamp</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5073"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4912"/>
         <source>burn-in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5074"/>
+        <location filename="../qml/pages/FirstPage.qml" line="4913"/>
         <source>selectable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5204"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5043"/>
         <source>full clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5204"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5043"/>
         <source>at cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5206"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5045"/>
         <source>interval</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5207"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5046"/>
         <source>i-frames</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5230"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5069"/>
         <source>sec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5360"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5199"/>
         <source>CURRENT FILE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5388"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5227"/>
         <source>SOURCE FILE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5400"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5239"/>
         <source>container</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5412"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5251"/>
         <source>display-ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5416"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5255"/>
         <source>pixel-ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5420"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5259"/>
         <source>rotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5424"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5263"/>
         <source>frames/s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5428"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5267"/>
         <source>video-codec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5432"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5271"/>
         <source>pixel-format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5436"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5275"/>
         <source>audio-codec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5440"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5279"/>
         <source>samplerate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5444"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5283"/>
         <source>layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="5485"/>
+        <location filename="../qml/pages/FirstPage.qml" line="5324"/>
         <source>new filename</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1866,6 +1844,39 @@
     <message>
         <location filename="../qml/pages/SavePage.qml" line="439"/>
         <source>When scaling, choose mp4 as extension and mpeg4 as codec for quick results. Or mkv as extension and vp9 for smaller sizes but long compression times..</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SecondaryToolbarImage</name>
+    <message>
+        <location filename="../qml/components/SecondaryToolbarImage.qml" line="18"/>
+        <source>Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/components/SecondaryToolbarImage.qml" line="27"/>
+        <source>Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/components/SecondaryToolbarImage.qml" line="36"/>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/components/SecondaryToolbarImage.qml" line="45"/>
+        <source>Geometry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/components/SecondaryToolbarImage.qml" line="54"/>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/components/SecondaryToolbarImage.qml" line="63"/>
+        <source>Overlay</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
