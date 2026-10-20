@@ -83,18 +83,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>fileinfo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>rename</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1234,10 +1222,6 @@
         <source>Pthon Error</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>share</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>InfoPage</name>
@@ -1442,6 +1426,25 @@
     </message>
     <message>
         <source>Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SecondaryToolbarFile</name>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
