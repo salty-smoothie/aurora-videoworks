@@ -87,10 +87,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>filters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>effects</source>
         <translation type="unfinished"></translation>
     </message>
@@ -100,10 +96,6 @@
     </message>
     <message>
         <source>volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>extract</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -659,10 +651,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>mixer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select audio file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -948,10 +936,6 @@
     </message>
     <message>
         <source>overlay audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>recorder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1421,6 +1405,33 @@
     </message>
     <message>
         <source>When scaling, choose mp4 as extension and mpeg4 as codec for quick results. Or mkv as extension and vp9 for smaller sizes but long compression times..</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SecondaryToolbarAudio</name>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extract</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mixer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recorder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
